@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "416098523031",
+    "firebase_url": "https://iotarduino-6a36e.firebaseio.com",
+    "project_id": "iotarduino-6a36e",
+    "storage_bucket": "iotarduino-6a36e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416098523031:android:9002e67ca242252b",
+        "android_client_info": {
+          "package_name": "jame.rmuthv.co.th.iotled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416098523031-eqpn3cq0epj0m7mm5rj4o085eeje7vc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jame.rmuthv.co.th.iotled",
+            "certificate_hash": "49cad35fd9abb45b8ab5465424d0a266cdb16f9c"
+          }
+        },
+        {
+          "client_id": "416098523031-e3ifhku6octm7d7on4ckqnvnppjjdst6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEacuns12aFxPAVR48VxgEeEtAZ6OPAHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416098523031-e3ifhku6octm7d7on4ckqnvnppjjdst6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
